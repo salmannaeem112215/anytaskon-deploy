@@ -46320,7 +46320,7 @@ return new A.a3Z(A.w1(s,r,t.JS),new A.b8(4,A.dE(new A.aF(4,4)),new A.a4($.bp().a
 A.a3Z.prototype={
 R(a){return A.acg(A.mA(new A.aDp(this),null,this.d,null,"lock_controller",t.JS))}}
 A.aDp.prototype={
-$1(a){var s,r,q,p,o,n,m=null,l="password",k=A.t6(0.2,B.h5),j=A.mG("assets/logo-dark-full.png",m,32,m),i=A.az(m,20,m),h=A.wx("Hi ! Gaston",m,700),g=A.az(m,20,m),f=A.cw("Enter your password to access the admin.",m,B.e,600,!0,B.e1,!1),e=A.az(m,20,m),d=this.a.d,c=d.db,b=c.f.i(0,l)
+$1(a){var s,r,q,p,o,n,m=null,l="password",k=A.t6(0.2,B.h5),j=A.mG("assets/logo-full.png",m,32,m),i=A.az(m,20,m),h=A.wx("Hi ! Gaston",m,700),g=A.az(m,20,m),f=A.cw("Enter your password to access the admin.",m,B.e,600,!0,B.e1,!1),e=A.az(m,20,m),d=this.a.d,c=d.db,b=c.f.i(0,l)
 c=c.nS(l,t.N)
 s=A.ew(!0)
 r=$.bp().ax.k3
@@ -46352,7 +46352,7 @@ Jz(){var s=null,r=A.lL(s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),q=this.d.d
 $.b7()
 return new A.ps(r,A.aPM(B.aL,B.ar,B.mA,!0,new A.aDu(this),new A.a4(B.aF,1,B.l,-1),A.cw("Remember Me",B.aF,B.e,600,!1,s,!1),q,new A.kq(-4,-4)),s)}}
 A.aDt.prototype={
-$1(a6){var s,r,q,p,o,n=null,m="password",l=A.t6(0.2,B.h5),k=A.mG("assets/logo-dark-full.png",n,32,n),j=A.az(n,20,n),i=A.wx("Sign In",n,700),h=A.az(n,20,n),g=A.cw("Enter your email address and password to access admin panel.",n,B.e,600,!0,B.e1,!1),f=A.az(n,20,n),e=this.a,d=A.cw("Email",n,B.e,600,!0,n,!1),c=A.az(n,12,n),b=e.d,a=b.dx,a0=a.f,a1=a0.i(0,"email"),a2=t.N,a3=a.nS("email",a2),a4=A.ew(!0),a5=$.bp().ax.k3
+$1(a6){var s,r,q,p,o,n=null,m="password",l=A.t6(0.2,B.h5),k=A.mG("assets/logo-full.png",n,32,n),j=A.az(n,20,n),i=A.wx("Sign In",n,700),h=A.az(n,20,n),g=A.cw("Enter your email address and password to access admin panel.",n,B.e,600,!0,B.e1,!1),f=A.az(n,20,n),e=this.a,d=A.cw("Email",n,B.e,600,!0,n,!1),c=A.az(n,12,n),b=e.d,a=b.dx,a0=a.f,a1=a0.i(0,"email"),a2=t.N,a3=a.nS("email",a2),a4=A.ew(!0),a5=$.bp().ax.k3
 a5=A.a2(120,a5.n()>>>16&255,a5.n()>>>8&255,a5.n()&255)
 s=$.bp().ax.k3
 s=A.a2(80,s.n()>>>16&255,s.n()>>>8&255,s.n()&255)
@@ -46418,7 +46418,7 @@ return new A.a6p(A.w1(s,r,t.Jq),new A.b8(4,A.dE(new A.aF(4,4)),new A.a4($.bp().a
 A.a6p.prototype={
 R(a){return A.acg(A.mA(new A.aFu(this),null,this.d,null,"reset_password_controller",t.Jq))}}
 A.aFu.prototype={
-$1(a2){var s,r,q,p,o,n,m,l=null,k="Reset Password",j=A.t6(0.2,B.h5),i=A.mG("assets/logo-dark-full.png",l,32,l),h=A.az(l,20,l),g=A.wx(k,l,700),f=A.az(l,20,l),e=A.cw("Enter your email address and we'll send you an email with instructions to reset your password.",l,B.e,600,!0,B.e1,!1),d=A.az(l,20,l),c=A.cw("Email",l,B.e,600,!0,l,!1),b=A.az(l,12,l),a=this.a.d,a0=a.db,a1=a0.f.i(0,"email")
+$1(a2){var s,r,q,p,o,n,m,l=null,k="Reset Password",j=A.t6(0.2,B.h5),i=A.mG("assets/logo-full.png",l,32,l),h=A.az(l,20,l),g=A.wx(k,l,700),f=A.az(l,20,l),e=A.cw("Enter your email address and we'll send you an email with instructions to reset your password.",l,B.e,600,!0,B.e1,!1),d=A.az(l,20,l),c=A.cw("Email",l,B.e,600,!0,l,!1),b=A.az(l,12,l),a=this.a.d,a0=a.db,a1=a0.f.i(0,"email")
 a0=a0.nS("email",t.N)
 s=A.ew(!0)
 r=$.bp().ax.k3
@@ -46450,7 +46450,7 @@ Jz(){var s=null,r=A.lL(s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),q=this.d.d
 $.b7()
 return new A.ps(r,A.aPM(B.aL,B.ar,B.mA,!0,new A.aGs(this),new A.a4(B.aF,1,B.l,-1),A.cw("I accept Terms and Condition",B.aF,B.e,600,!1,s,!1),q,new A.kq(-4,-4)),s)}}
 A.aGr.prototype={
-$1(a8){var s,r,q,p,o,n,m,l=null,k="password",j=A.t6(0.2,B.h5),i=A.mG("assets/logo-dark-full.png",l,32,l),h=A.az(l,20,l),g=A.wx("Sign Up",l,700),f=A.az(l,20,l),e=A.cw("New to our platform? Sign up now! It only takes a minute.",l,B.e,600,!0,B.e1,!1),d=A.az(l,20,l),c=this.a,b=A.cw("Name",l,B.e,600,!0,l,!1),a=A.az(l,12,l),a0=c.d,a1=a0.db,a2=a1.f,a3=a2.i(0,"name"),a4=t.N,a5=a1.nS("name",a4),a6=A.ew(!0),a7=$.bp().ax.k3
+$1(a8){var s,r,q,p,o,n,m,l=null,k="password",j=A.t6(0.2,B.h5),i=A.mG("assets/logo-full.png",l,32,l),h=A.az(l,20,l),g=A.wx("Sign Up",l,700),f=A.az(l,20,l),e=A.cw("New to our platform? Sign up now! It only takes a minute.",l,B.e,600,!0,B.e1,!1),d=A.az(l,20,l),c=this.a,b=A.cw("Name",l,B.e,600,!0,l,!1),a=A.az(l,12,l),a0=c.d,a1=a0.db,a2=a1.f,a3=a2.i(0,"name"),a4=t.N,a5=a1.nS("name",a4),a6=A.ew(!0),a7=$.bp().ax.k3
 a7=A.a2(120,a7.n()>>>16&255,a7.n()>>>8&255,a7.n()&255)
 s=$.bp().ax.k3
 s=A.a2(80,s.n()>>>16&255,s.n()>>>8&255,s.n()&255)
@@ -46649,7 +46649,7 @@ p=$.t5
 o=t.p
 n=A.b([],o)
 if(l.a.c)n.push(A.mG(j,k,19,k))
-if(!l.a.c)n.push(A.cl(A.b([A.mG(j,k,24,k),A.az(k,k,10),A.mG("assets/logo-light.png",k,15,k)],o),B.E,B.D,B.z,k))
+if(!l.a.c)n.push(A.cl(A.b([A.mG(j,k,24,k),A.az(k,k,10),A.mG("assets/logo.png",k,15,k)],o),B.E,B.D,B.z,k))
 n=A.b([A.fU(!1,k,!0,A.cl(n,B.E,B.D,B.cf,k),k,!0,k,k,k,k,k,k,k,k,k,new A.aDf(),k,k,k,k,k,k)],o)
 if(!l.a.c)n.push(new A.Y0(k))
 if(!l.a.c){m=$.bp().ax.k3
