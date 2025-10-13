@@ -61,7 +61,7 @@ const RESOURCES = {"flutter.js": "888483df48293866f9f41d3d9274a779",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "33b7d9392238c04c131b6ce224e13711",
 "assets/packages/flutter_tabler_icons/assets/fonts/tabler-icons.ttf": "a92cc8a8bf911f0e59c1a27fc1b7baea",
 "assets/packages/flutter_boxicons/fonts/Boxicons.ttf": "20b1c3156a97064740efd925bba76770",
-"assets/packages/flutter_lucide/lib/fonts/lucide.ttf": "ed61f9fa0eaa6263edd99885d10204a5",
+"assets/packages/flutter_lucide/lib/fonts/lucide.ttf": "d7ed8c65924037dde2ddbbf2b9c6628b",
 "assets/packages/timezone/data/latest_all.tzf": "5e6af46f7fdd153c308fc6531ba69d03",
 "assets/FontManifest.json": "cf5d3121ae7541f43f017d3c9f519213",
 "assets/AssetManifest.bin": "f293cc32477f755c62482f7c58a5e588",
@@ -80,9 +80,9 @@ const RESOURCES = {"flutter.js": "888483df48293866f9f41d3d9274a779",
 "canvaskit/skwasm.js.symbols": "0088242d10d7e7d6d2649d1fe1bda7c1",
 "favicon.png": "1644bf64faf89792fdeabcb0be4d8db6",
 "_redirects": "6a02faf7ea2a9584134ffe15779a0e44",
-"flutter_bootstrap.js": "aa53c3841277fd95338e05d92346c762",
+"flutter_bootstrap.js": "4ba56803ae237b2ca3b0dbe255adade3",
 "version.json": "6db7e5e01e7984f4327226b4a1612c68",
-"main.dart.js": "35269c1137daf732cbaa95dd8413b0ef"};
+"main.dart.js": "771834e94ab16d8c41c52a4dabcbcf60"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
